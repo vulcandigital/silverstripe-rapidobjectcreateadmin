@@ -1,3 +1,3 @@
 LittleGiant\SingleObjectAdmin\SingleObjectAdmin:
   plugins:
-    - Vulcan\RapidObjectCreate\RapidObjectCreateAdmin
+    - Vulcan\RapidObjectCreateAdmin\RapidObjectCreateAdmin
