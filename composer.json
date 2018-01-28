@@ -1,0 +1,21 @@
+{
+  "name": "vulcandigital/silverstripe-rapidobjectcreateadmin",
+  "type": "silverstripe-vendormodule",
+  "description": "Allows you to rapidly create record after record. Handy for when you want to separate \"Add New\" functionality",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Reece Alexander",
+      "email": "reece@vulcandigital.co.nz"
+    }
+  ],
+  "require":
+  {
+    "littlegiant/silverstripe-singleobjectadmin": "^2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Vulcan\\RapidObjectCreate\\": "src/"
+    }
+  }
+}
